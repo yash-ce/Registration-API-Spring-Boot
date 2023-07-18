@@ -21,10 +21,3 @@ replace the JDBC URL in the h2 database login form with this `jdbc:h2:mem:testdb
 ![image](https://github.com/yash-ce/Registration-API-Spring-Boot/assets/66213227/14f775e3-d703-48e8-ab48-2746943cd458)
 
 
-## Contributing
-
-Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
